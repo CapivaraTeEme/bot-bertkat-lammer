@@ -4,6 +4,7 @@ Info del replit
 Pruebas de que usa IA 
 y adjunto a este mensaje, su source code
 
-Info Replit
+# Info Replit
+
 [account 1](https://replit.com/@papichuloheidad)
 [account 2](https://replit.com/@barraganefrain0)
